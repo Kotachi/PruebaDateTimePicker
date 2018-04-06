@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\CODIGOS FUENTE\PROG1EVA1Julian_Palacios\PROG1EVA1Julian_Palacios\bin\Debug\PROG1EVA1Julian_Palacios.exe.config
+C:\Users\hp\Desktop\CODIGOS FUENTE\PROG1EVA1Julian_Palacios\PROG1EVA1Julian_Palacios\obj\Debug\PROG1EVA1Julian_Palacios.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\PROG1EVA1Julian_Palacios\PROG1EVA1Julian_Palacios\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\CODIGOS FUENTE\PROG1EVA1Julian_Palacios\PROG1EVA1Julian_Palacios\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\CODIGOS FUENTE\PROG1EVA1Julian_Palacios\PROG1EVA1Julian_Palacios\obj\Debug\PROG1EVA1Julian_Palacios_MarkupCompile.cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\PROG1EVA1Julian_Palacios\PROG1EVA1Julian_Palacios\obj\Debug\PROG1EVA1Julian_Palacios_MarkupCompile.lref
+C:\Users\hp\Desktop\CODIGOS FUENTE\PROG1EVA1Julian_Palacios\PROG1EVA1Julian_Palacios\bin\Debug\PROG1EVA1Julian_Palacios.exe
+C:\Users\hp\Desktop\CODIGOS FUENTE\PROG1EVA1Julian_Palacios\PROG1EVA1Julian_Palacios\bin\Debug\PROG1EVA1Julian_Palacios.pdb
+C:\Users\hp\Desktop\CODIGOS FUENTE\PROG1EVA1Julian_Palacios\PROG1EVA1Julian_Palacios\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\CODIGOS FUENTE\PROG1EVA1Julian_Palacios\PROG1EVA1Julian_Palacios\obj\Debug\PROG1EVA1Julian_Palacios.g.resources
+C:\Users\hp\Desktop\CODIGOS FUENTE\PROG1EVA1Julian_Palacios\PROG1EVA1Julian_Palacios\obj\Debug\PROG1EVA1Julian_Palacios.Properties.Resources.resources
+C:\Users\hp\Desktop\CODIGOS FUENTE\PROG1EVA1Julian_Palacios\PROG1EVA1Julian_Palacios\obj\Debug\PROG1EVA1Julian_Palacios.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\PROG1EVA1Julian_Palacios\PROG1EVA1Julian_Palacios\obj\Debug\PROG1EVA1Julian_Palacios.exe
+C:\Users\hp\Desktop\CODIGOS FUENTE\PROG1EVA1Julian_Palacios\PROG1EVA1Julian_Palacios\obj\Debug\PROG1EVA1Julian_Palacios.pdb

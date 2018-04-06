@@ -1,0 +1,23 @@
+﻿<Window x:Class="PROG1EVA1Julian_Palacios.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PROG1EVA1Julian_Palacios"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="380.667" Width="525">
+    <Grid>
+        <Label x:Name="ingRut" Content="Ingresar RUT" HorizontalAlignment="Left" Margin="48,84,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label x:Name="ingEdad" Content="Ingresar Edad" HorizontalAlignment="Left" Margin="48,138,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label x:Name="ingDomicilio" Content="Ingresar domicilio" HorizontalAlignment="Left" Margin="48,191,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label x:Name="ingNombre" Content="Ingresar Nombre" HorizontalAlignment="Left" Margin="48,36,0,0" VerticalAlignment="Top" Width="110"/>
+        <TextBox x:Name="ingresoNom" HorizontalAlignment="Left" Height="23" Margin="48,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.322,0.623"/>
+        <TextBox x:Name="ingresoRUT" HorizontalAlignment="Left" Height="23" Margin="48,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="ingresoEdad" HorizontalAlignment="Left" Height="23" Margin="48,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="ingresoDomi" HorizontalAlignment="Left" Height="23" Margin="48,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="guardar" Content="Guardar" HorizontalAlignment="Left" Margin="71,296,0,0" VerticalAlignment="Top" Width="75" Click="guardar_Click"/>
+        <TextBox x:Name="salidaDatos" HorizontalAlignment="Left" Height="183" Margin="362,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="62"/>
+        <TextBox x:Name="provisorio" HorizontalAlignment="Left" Height="155" Margin="237,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="78"/>
+
+    </Grid>
+</Window>

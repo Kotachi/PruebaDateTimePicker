@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\CODIGOS FUENTE\registrosBD\registrosBD\bin\Debug\registrosBD.exe.config
+C:\Users\hp\Desktop\CODIGOS FUENTE\registrosBD\registrosBD\bin\Debug\registrosBD.exe
+C:\Users\hp\Desktop\CODIGOS FUENTE\registrosBD\registrosBD\bin\Debug\registrosBD.pdb
+C:\Users\hp\Desktop\CODIGOS FUENTE\registrosBD\registrosBD\obj\Debug\registrosBD.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\registrosBD\registrosBD\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\CODIGOS FUENTE\registrosBD\registrosBD\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\CODIGOS FUENTE\registrosBD\registrosBD\obj\Debug\registrosBD_MarkupCompile.cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\registrosBD\registrosBD\obj\Debug\registrosBD_MarkupCompile.lref
+C:\Users\hp\Desktop\CODIGOS FUENTE\registrosBD\registrosBD\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\CODIGOS FUENTE\registrosBD\registrosBD\obj\Debug\registrosBD.g.resources
+C:\Users\hp\Desktop\CODIGOS FUENTE\registrosBD\registrosBD\obj\Debug\registrosBD.Properties.Resources.resources
+C:\Users\hp\Desktop\CODIGOS FUENTE\registrosBD\registrosBD\obj\Debug\registrosBD.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\registrosBD\registrosBD\obj\Debug\registrosBD.exe
+C:\Users\hp\Desktop\CODIGOS FUENTE\registrosBD\registrosBD\obj\Debug\registrosBD.pdb

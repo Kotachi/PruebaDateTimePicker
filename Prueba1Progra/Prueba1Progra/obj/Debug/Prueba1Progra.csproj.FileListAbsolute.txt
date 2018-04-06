@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\CODIGOS FUENTE\Prueba1Progra\Prueba1Progra\bin\Debug\Prueba1Progra.exe.config
+C:\Users\hp\Desktop\CODIGOS FUENTE\Prueba1Progra\Prueba1Progra\obj\Debug\Prueba1Progra.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\Prueba1Progra\Prueba1Progra\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\CODIGOS FUENTE\Prueba1Progra\Prueba1Progra\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\CODIGOS FUENTE\Prueba1Progra\Prueba1Progra\obj\Debug\Prueba1Progra_MarkupCompile.cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\Prueba1Progra\Prueba1Progra\obj\Debug\Prueba1Progra_MarkupCompile.lref
+C:\Users\hp\Desktop\CODIGOS FUENTE\Prueba1Progra\Prueba1Progra\bin\Debug\Prueba1Progra.exe
+C:\Users\hp\Desktop\CODIGOS FUENTE\Prueba1Progra\Prueba1Progra\bin\Debug\Prueba1Progra.pdb
+C:\Users\hp\Desktop\CODIGOS FUENTE\Prueba1Progra\Prueba1Progra\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\CODIGOS FUENTE\Prueba1Progra\Prueba1Progra\obj\Debug\Prueba1Progra.g.resources
+C:\Users\hp\Desktop\CODIGOS FUENTE\Prueba1Progra\Prueba1Progra\obj\Debug\Prueba1Progra.Properties.Resources.resources
+C:\Users\hp\Desktop\CODIGOS FUENTE\Prueba1Progra\Prueba1Progra\obj\Debug\Prueba1Progra.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\Prueba1Progra\Prueba1Progra\obj\Debug\Prueba1Progra.exe
+C:\Users\hp\Desktop\CODIGOS FUENTE\Prueba1Progra\Prueba1Progra\obj\Debug\Prueba1Progra.pdb

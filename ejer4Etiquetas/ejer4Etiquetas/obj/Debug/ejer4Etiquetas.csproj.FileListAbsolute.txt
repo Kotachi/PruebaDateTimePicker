@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\CODIGOS FUENTE\ejer4Etiquetas\ejer4Etiquetas\bin\Debug\ejer4Etiquetas.exe.config
+C:\Users\hp\Desktop\CODIGOS FUENTE\ejer4Etiquetas\ejer4Etiquetas\bin\Debug\ejer4Etiquetas.exe
+C:\Users\hp\Desktop\CODIGOS FUENTE\ejer4Etiquetas\ejer4Etiquetas\bin\Debug\ejer4Etiquetas.pdb
+C:\Users\hp\Desktop\CODIGOS FUENTE\ejer4Etiquetas\ejer4Etiquetas\obj\Debug\ejer4Etiquetas.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\ejer4Etiquetas\ejer4Etiquetas\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\CODIGOS FUENTE\ejer4Etiquetas\ejer4Etiquetas\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\CODIGOS FUENTE\ejer4Etiquetas\ejer4Etiquetas\obj\Debug\ejer4Etiquetas_MarkupCompile.cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\ejer4Etiquetas\ejer4Etiquetas\obj\Debug\ejer4Etiquetas_MarkupCompile.lref
+C:\Users\hp\Desktop\CODIGOS FUENTE\ejer4Etiquetas\ejer4Etiquetas\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\CODIGOS FUENTE\ejer4Etiquetas\ejer4Etiquetas\obj\Debug\ejer4Etiquetas.g.resources
+C:\Users\hp\Desktop\CODIGOS FUENTE\ejer4Etiquetas\ejer4Etiquetas\obj\Debug\ejer4Etiquetas.Properties.Resources.resources
+C:\Users\hp\Desktop\CODIGOS FUENTE\ejer4Etiquetas\ejer4Etiquetas\obj\Debug\ejer4Etiquetas.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\ejer4Etiquetas\ejer4Etiquetas\obj\Debug\ejer4Etiquetas.exe
+C:\Users\hp\Desktop\CODIGOS FUENTE\ejer4Etiquetas\ejer4Etiquetas\obj\Debug\ejer4Etiquetas.pdb

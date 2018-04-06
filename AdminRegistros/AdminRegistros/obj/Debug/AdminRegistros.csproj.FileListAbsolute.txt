@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\CODIGOS FUENTE\AdminRegistros\AdminRegistros\bin\Debug\AdminRegistros.exe.config
+C:\Users\hp\Desktop\CODIGOS FUENTE\AdminRegistros\AdminRegistros\obj\Debug\AdminRegistros.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\AdminRegistros\AdminRegistros\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\CODIGOS FUENTE\AdminRegistros\AdminRegistros\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\CODIGOS FUENTE\AdminRegistros\AdminRegistros\obj\Debug\AdminRegistros_MarkupCompile.cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\AdminRegistros\AdminRegistros\obj\Debug\AdminRegistros_MarkupCompile.lref
+C:\Users\hp\Desktop\CODIGOS FUENTE\AdminRegistros\AdminRegistros\bin\Debug\AdminRegistros.exe
+C:\Users\hp\Desktop\CODIGOS FUENTE\AdminRegistros\AdminRegistros\bin\Debug\AdminRegistros.pdb
+C:\Users\hp\Desktop\CODIGOS FUENTE\AdminRegistros\AdminRegistros\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\CODIGOS FUENTE\AdminRegistros\AdminRegistros\obj\Debug\AdminRegistros.g.resources
+C:\Users\hp\Desktop\CODIGOS FUENTE\AdminRegistros\AdminRegistros\obj\Debug\AdminRegistros.Properties.Resources.resources
+C:\Users\hp\Desktop\CODIGOS FUENTE\AdminRegistros\AdminRegistros\obj\Debug\AdminRegistros.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\CODIGOS FUENTE\AdminRegistros\AdminRegistros\obj\Debug\AdminRegistros.exe
+C:\Users\hp\Desktop\CODIGOS FUENTE\AdminRegistros\AdminRegistros\obj\Debug\AdminRegistros.pdb
