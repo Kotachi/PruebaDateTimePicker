@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>n7g9DUqOno4p5yjFFG84EaGfq1MqiMy7yfOseNJrxF8=</dsig:DigestValue>
+        <dsig:DigestValue>G8AkDBzD8tYoxRJYTbcXrG9abgty6+GXtKrMZ1mhyLo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -68,7 +68,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>SvLp8FVl2apI9oOURSitYskuel0bjPu9RVGfPdD6Xks=</dsig:DigestValue>
+      <dsig:DigestValue>ZqMXNtKTmDSUWqO/1P1f79vYk98u+sjcLD1zO8yY67E=</dsig:DigestValue>
     </hash>
   </file>
   <file name="LEONESEXAMEN_log.ldf" size="8388608" writeableType="applicationData">
@@ -77,7 +77,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>iyWx8Trnvh/9tebQSTDmbL95bdZvN35wkkeI7qU5/pI=</dsig:DigestValue>
+      <dsig:DigestValue>z+QdZcH5fwtIWl0RaJH9YmaoDgcKIQac6wgMb4064I4=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
