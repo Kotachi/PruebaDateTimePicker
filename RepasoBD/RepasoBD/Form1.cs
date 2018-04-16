@@ -43,6 +43,10 @@ namespace RepasoBD
             {
                 MessageBox.Show("formato no incorrecto,\nIngrese solo numeros.\n"+fe.Message);
             }
+            catch (SystemException se)
+            {
+                MessageBox.Show("Error\n"+se.Message);
+            }
         }
 
         private void Form1_Load(object sender, EventArgs e)
