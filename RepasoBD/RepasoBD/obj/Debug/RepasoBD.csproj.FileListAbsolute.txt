@@ -1,1 +1,11 @@
 F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\RepasoBD\RepasoBD\bin\Debug\RepasoBD.exe.config
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\RepasoBD\RepasoBD\bin\Debug\RepasoBD.mdf
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\RepasoBD\RepasoBD\bin\Debug\RepasoBD_log.ldf
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\RepasoBD\RepasoBD\bin\Debug\RepasoBD.exe
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\RepasoBD\RepasoBD\bin\Debug\RepasoBD.pdb
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\RepasoBD\RepasoBD\obj\Debug\RepasoBD.csprojResolveAssemblyReference.cache
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\RepasoBD\RepasoBD\obj\Debug\RepasoBD.Form1.resources
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\RepasoBD\RepasoBD\obj\Debug\RepasoBD.Properties.Resources.resources
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\RepasoBD\RepasoBD\obj\Debug\RepasoBD.csproj.GenerateResource.Cache
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\RepasoBD\RepasoBD\obj\Debug\RepasoBD.exe
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\RepasoBD\RepasoBD\obj\Debug\RepasoBD.pdb
