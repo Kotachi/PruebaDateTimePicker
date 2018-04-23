@@ -68,7 +68,8 @@ namespace EXAMENJULIANPALACIOS
                 command.Parameters.AddWithValue("@prof1",prof1);
                 command.Parameters.AddWithValue("@Prof2",prof2);
                 command.Parameters.AddWithValue("@promEncu",promEncu);
-                int insertOK = command.ExecuteNonQuery();
+          
+		  int insertOK = command.ExecuteNonQuery();
                 if (insertOK > 0)
                 {
                     MessageBox.Show("Datos agregados");

@@ -1,0 +1,11 @@
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\pruebaDateTimePicker\pruebaDateTimePicker\bin\Debug\pruebaDateTimePicker.exe.config
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\pruebaDateTimePicker\pruebaDateTimePicker\bin\Debug\PruebaDTP.mdf
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\pruebaDateTimePicker\pruebaDateTimePicker\bin\Debug\PruebaDTP_log.ldf
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\pruebaDateTimePicker\pruebaDateTimePicker\bin\Debug\pruebaDateTimePicker.exe
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\pruebaDateTimePicker\pruebaDateTimePicker\bin\Debug\pruebaDateTimePicker.pdb
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\pruebaDateTimePicker\pruebaDateTimePicker\obj\Debug\pruebaDateTimePicker.csprojResolveAssemblyReference.cache
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\pruebaDateTimePicker\pruebaDateTimePicker\obj\Debug\pruebaDateTimePicker.Form1.resources
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\pruebaDateTimePicker\pruebaDateTimePicker\obj\Debug\pruebaDateTimePicker.Properties.Resources.resources
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\pruebaDateTimePicker\pruebaDateTimePicker\obj\Debug\pruebaDateTimePicker.csproj.GenerateResource.Cache
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\pruebaDateTimePicker\pruebaDateTimePicker\obj\Debug\pruebaDateTimePicker.exe
+F:\CURSOS\PROGRAMACION\CODIGOS FUENTE\pruebaDateTimePicker\pruebaDateTimePicker\obj\Debug\pruebaDateTimePicker.pdb
